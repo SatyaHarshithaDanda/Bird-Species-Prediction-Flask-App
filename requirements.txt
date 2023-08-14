@@ -1,5 +1,6 @@
-Flask==1.1.1
+Flask==2.1.0
+jinja2==3.0.3
 numpy==1.19.3
 keras==2.4.3
 Pillow==8.1.0
-gunicorn
+gunicorn====20.1.0
